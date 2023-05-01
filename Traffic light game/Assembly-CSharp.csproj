@@ -57,6 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
+    <Compile Include="Assets\Script\MovingStraightScript.cs" />
+    <Compile Include="Assets\Script\SpawnManager.cs" />
+    <Compile Include="Assets\Script\DestroyOutOfBounbds.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
