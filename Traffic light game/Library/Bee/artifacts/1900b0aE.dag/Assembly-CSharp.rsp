@@ -349,6 +349,7 @@
 "Assets/Script/DestroyOutOfBounbds.cs"
 "Assets/Script/MovingStraightScript.cs"
 "Assets/Script/SpawnManager.cs"
+"Assets/Script/TrafficLightController.cs"
 -langversion:9.0
 
 /deterministic
